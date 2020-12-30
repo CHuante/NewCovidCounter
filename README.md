@@ -36,7 +36,9 @@ STEP 1: Download folder into computer
 
 STEP 2: Open terminal/command prompt and cd into the project folder
 
-STEP 3: Make sure npm is installed and enter the colloring code:
+STEP 3: install node modules by entering: npm install
+
+STEP 4: Make sure npm is installed and enter the colloring code:
 
 ```bash
 npm run start;
