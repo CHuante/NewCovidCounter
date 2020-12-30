@@ -43,4 +43,4 @@ STEP 4: Make sure npm is installed and enter the colloring code:
 ```bash
 npm run start;
 ```
-STEP 4: After that the website should pop-up in a localhost 3000 site. Enjoy!
+STEP 5: After that the website should pop-up in a localhost 3000 site. Enjoy!
